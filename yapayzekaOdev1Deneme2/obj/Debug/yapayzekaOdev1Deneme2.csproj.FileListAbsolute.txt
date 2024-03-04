@@ -1,0 +1,11 @@
+C:\Users\beyza\source\csharp\YAPAYZEKAprojeler\yapayZekaOdev1\yapayzekaOdev1Deneme2\bin\Debug\yapayzekaOdev1Deneme2.exe.config
+C:\Users\beyza\source\csharp\YAPAYZEKAprojeler\yapayZekaOdev1\yapayzekaOdev1Deneme2\bin\Debug\yapayzekaOdev1Deneme2.exe
+C:\Users\beyza\source\csharp\YAPAYZEKAprojeler\yapayZekaOdev1\yapayzekaOdev1Deneme2\bin\Debug\yapayzekaOdev1Deneme2.pdb
+C:\Users\beyza\source\csharp\YAPAYZEKAprojeler\yapayZekaOdev1\yapayzekaOdev1Deneme2\obj\Debug\yapayzekaOdev1Deneme2.csproj.AssemblyReference.cache
+C:\Users\beyza\source\csharp\YAPAYZEKAprojeler\yapayZekaOdev1\yapayzekaOdev1Deneme2\obj\Debug\yapayzekaOdev1Deneme2.csproj.SuggestedBindingRedirects.cache
+C:\Users\beyza\source\csharp\YAPAYZEKAprojeler\yapayZekaOdev1\yapayzekaOdev1Deneme2\obj\Debug\yapayzekaOdev1Deneme2.MainForm.resources
+C:\Users\beyza\source\csharp\YAPAYZEKAprojeler\yapayZekaOdev1\yapayzekaOdev1Deneme2\obj\Debug\yapayzekaOdev1Deneme2.Properties.Resources.resources
+C:\Users\beyza\source\csharp\YAPAYZEKAprojeler\yapayZekaOdev1\yapayzekaOdev1Deneme2\obj\Debug\yapayzekaOdev1Deneme2.csproj.GenerateResource.cache
+C:\Users\beyza\source\csharp\YAPAYZEKAprojeler\yapayZekaOdev1\yapayzekaOdev1Deneme2\obj\Debug\yapayzekaOdev1Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\beyza\source\csharp\YAPAYZEKAprojeler\yapayZekaOdev1\yapayzekaOdev1Deneme2\obj\Debug\yapayzekaOdev1Deneme2.exe
+C:\Users\beyza\source\csharp\YAPAYZEKAprojeler\yapayZekaOdev1\yapayzekaOdev1Deneme2\obj\Debug\yapayzekaOdev1Deneme2.pdb
